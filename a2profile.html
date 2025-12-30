@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sign in</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+<style>
+    .divx{
+        width:30%;
+        height:60%;
+        background-color:white;
+    }
+    #divx{
+        margin-top: 30px;
+    }
+    #button{
+        margin-top:30px;
+    }
+</style>
+<script>
+    function fun(){
+        alert("Sign in successfully!!")
+    }
+</script>
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    <center>
+        <form>
+          <h2 style="position:relative; top:20px"> Welcome</h2>
+          <br>
+          <div class="divx">
+          <div class="mb-3" id="divx">
+            <div style="text-align:left;"><label for="exampleInputEmail1" class="form-label">Email address</label></div>
+           <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail">
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+          </div>
+          <div class="mb-3">
+            <div style="text-align:left;"> <label for="exampleInputPassword1" class="form-label">Password</label></div>
+            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="password">
+          </div>
+          <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+           <div style="text-align:left;"><label class="form-check-label" for="exampleCheck1" >Check me out</label></div>
+          </div>
+          <button type="submit" class="btn btn-primary" id="button"  onclick="fun()">Continue</button>
+         </div>
+        </form>
+    </center>
+</body>
+</html>
