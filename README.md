@@ -1,10 +1,10 @@
-# Shopex - Online Fashion Store 🛍️
+# Shopex - Online Fashion Store
 
 **Shopex** is a responsive frontend e-commerce web application designed for browsing and ordering clothing and lifestyle products. The platform features a wide variety of categories ranging from Western wear to ethnic suits and beauty products, built using **HTML5**, **CSS3**, and **Bootstrap 5**.
 
 <img width="1365" height="582" alt="image" src="https://github.com/user-attachments/assets/cec2be8e-6130-4eba-9f10-a351fc292810" />
 
-## 📋 Table of Contents
+##  Table of Contents
 
 * [Features](https://www.google.com/search?q=%23-features)
 * [Technologies Used](https://www.google.com/search?q=%23-technologies-used)
@@ -13,7 +13,7 @@
 * [Screenshots](https://www.google.com/search?q=%23-screenshots)
 * [Future Scope](https://www.google.com/search?q=%23-future-scope)
 
-## 🚀 Features
+##  Features
 
 * **Responsive Design:** Fully responsive layout that adapts to mobile, tablet, and desktop screens using **Bootstrap 5** and CSS Grid.
 * **Comprehensive Navigation:** Dark-themed navigation bar with dropdown menus for easy access to product categories (Western Wear, Ethnic, etc.).
@@ -32,7 +32,7 @@
 * **Interactive Elements:** JavaScript alerts for "Added to Cart" and "Sign In" actions.
 * **Grid Layout:** Custom CSS grid implementation (`.cardx`) for displaying product cards neatly.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * **HTML5:** Semantic structure of the web pages.
 * **CSS3:** Custom styling for footers, grids, and layout adjustments.
@@ -64,7 +64,7 @@ Shopex/
 
 ```
 
-## 💻 Installation & Usage
+##  Installation & Usage
 
 Since this is a static frontend project, no backend server or package installation is required.
 
@@ -73,7 +73,7 @@ Since this is a static frontend project, no backend server or package installati
 3. Double-click on **`assignmenta1.html`** to open the website in your default web browser.
 4. Navigate through the menu to view different categories.
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 1. Product Grid
 
@@ -92,10 +92,10 @@ A dedicated section for users to manage their profile and security settings.
 
 Clean interface for user login.
 
-![Uploading image.png…]()
+<img width="832" height="469" alt="image" src="https://github.com/user-attachments/assets/39cd8904-fc8f-425c-9350-0ae4022a4ca0" />
 
 
-## 🔮 Future Scope
+##  Future Scope
 
 * **Backend Integration:** Connect to a Node.js or Python backend to manage real user data and orders.
 * **Shopping Cart:** Implement a functional shopping cart page to store selected items instead of just showing alerts.
